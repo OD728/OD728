@@ -1,13 +1,13 @@
-# Heyge
+<p align="left">
+  <img src="4x.avif" alt="Banner" width="10%">
+</p>
 
 UI/UX improvements
-
-👉 **[overr1.de](https://overr1.de/)**
 
 ---
 
 ### What I'm Working On
-I enjoy building tools that remove clutter and improve how we interact with the web.
+I enjoy building tools that remove clutter and improve how we interact with the web (mostly on Twitch).
 
 * **[CleanTwitch](https://github.com/OD728/CleanTwitch)**: A CSS-based solution to declutter the Twitch.tv interface, removing ads, promos, and unnecessary UI elements for a focused viewing experience.
 * **Web Development**: Building and maintaining my personal domain [overr1.de](https://overr1.de/).
@@ -20,3 +20,5 @@ I enjoy building tools that remove clutter and improve how we interact with the 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+**[overr1.de](https://overr1.de/)**
