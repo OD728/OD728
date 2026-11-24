@@ -18,7 +18,7 @@ I enjoy building tools that remove clutter and make things nicer to use, on the 
 * **[CleanTwitch](https://github.com/OD728/CleanTwitch)** and **[STwitchT](https://github.com/OD728/STwitchT)**: Less clutter and tidier stream titles on Twitch.
 * **[YouTube Userscripts](https://github.com/OD728/youtube-userscripts)**: Default speed, auto-pause, 1440p and a 5-per-row grid.
 * **[Firefox Compact](https://github.com/OD728/FirefoxCompact)**: Compact tabs and an address bar that hides until you need it.
-* **Web Development**: Building and maintaining my personal domain **[overr1.de](https://overr1.de/)**.
+* **Web Development**: Building and maintaining my personal domain **[itmeron.de](https://itmeron.de/)**.
 * **Customization**: Experimenting with **Catppuccin** themes and user-centric styling.
 
 **Languages & Tools**
@@ -29,4 +29,4 @@ I enjoy building tools that remove clutter and make things nicer to use, on the 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
-🌐 **[overr1.de](https://overr1.de/)**
+🌐 **[itmeron.de](https://itmeron.de/)**
